@@ -10,3 +10,5 @@ Run the mnist-tensorboard-embeddings-1.py
  
      tensorboard --logdir=/Technical_works/tensorflow/mnist-tensorboard/log-1 --port=6006
      Then open localhost:6006 in a browser
+     
+     
