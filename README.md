@@ -8,5 +8,5 @@ Run the mnist-tensorboard-embeddings-1.py
  
  For example to call my logs I give a complete path of my log directory in tensorboard command:
  
-  tensorboard --logdir=/Technical_works/tensorflow/mnist-tensorboard/log-1 --port=6006
-  Then open localhost:6006 in a browser
+     tensorboard --logdir=/Technical_works/tensorflow/mnist-tensorboard/log-1 --port=6006
+     Then open localhost:6006 in a browser
